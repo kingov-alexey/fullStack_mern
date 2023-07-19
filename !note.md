@@ -18,12 +18,13 @@ $ npm install jsonwebtoken - авторизация, генерация ключ
 
 $ npm i mongoose
 
-
 mongodb.com
 userDB:
 kingovalexey
 jXQpI4WiMzuEN3VS
 
+$ npm i express-validator - для валидации полей
 
-https://youtu.be/GQ_pTmcXNrQ?t=1900
+$ npm i bcrypt - для шифрования
 
+https://youtu.be/GQ_pTmcXNrQ?t=2930
